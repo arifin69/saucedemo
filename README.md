@@ -1,6 +1,6 @@
 ### Clone Repo
 ```
-git clone https://github.com/saucedemo.git
+git clone https://github.com/arifin69/saucedemo.git
 ```
 
 ### Installing 
